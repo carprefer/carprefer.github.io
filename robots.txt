@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://carprefer.github.io/al-folio/sitemap.xml
+Sitemap: https://carprefer.github.io/sitemap.xml
